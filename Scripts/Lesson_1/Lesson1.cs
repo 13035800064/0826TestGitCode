@@ -12,27 +12,29 @@ public class Lesson1 : MonoBehaviour
 
     public GUIStyle uIStyle;
 
-    //Î»ÖÃ²ÎÊý £º Rect
-    //ÏÔÊ¾ÎÄ±¾£º string
-    //Í¼Æ¬ÐÅÏ¢£ºTexture
-    //×ÛºÏÐÅÏ¢ GUIContent
-    //×Ô¶¨ÒåÑùÊ½ GUIStyle
+    //Î»ï¿½Ã²ï¿½ï¿½ï¿½ ï¿½ï¿½ Rect
+    //ï¿½ï¿½Ê¾ï¿½Ä±ï¿½ï¿½ï¿½ string
+    //Í¼Æ¬ï¿½ï¿½Ï¢ï¿½ï¿½Texture
+    //ï¿½Ûºï¿½ï¿½ï¿½Ï¢ GUIContent
+    //ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½Ê½ GUIStyle
     //Rect rect1 = new Rect(0, 0, 100, 200);
     private void OnGUI()
     {
-        //GUI.Label(rect1, "Â¬ÀÏÊ¦»¶Ó­Äã", uIStyle);
+        //GUI.Label(rect1, "Â¬ï¿½ï¿½Ê¦ï¿½ï¿½Ó­ï¿½ï¿½", uIStyle);
         ////GUI.Label(rect, texture);
 
         //GUI.Label(rect, content);
 
         //if (GUI.Button(rect, content, uIStyle))
         //{
-        //    print("½øÈëÓÎÏ·");
+        //    print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï·");
         //}
 
         //if (GUI.RepeatButton(rect, content))
         //{
         //    print("changË§");
         //}
+
+        
     }
 }
